@@ -1,0 +1,1 @@
+module.exports.ShoppingCart = require('./ShoppingCart.js');

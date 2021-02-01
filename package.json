@@ -1,0 +1,10 @@
+{
+    "license": "MIT",
+    "name": "@mindpowered/shoppingcart",
+    "version": "0.0.12",
+    "description": "Shopping Cart for Online Shopping",
+    "main": "index.js",
+    "dependencies": {
+        "@mindpowered/maglev": "*"
+    }
+}
